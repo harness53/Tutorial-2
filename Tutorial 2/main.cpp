@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	double a,b,c;
-	cout << "Shis program sums two numbers" << endl;
+	cout << "This program sums two numbers" << endl;
 	a = 0;
 	b = 0;
 	cout << "Enter A: ";
